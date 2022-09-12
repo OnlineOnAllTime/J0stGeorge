@@ -1,4 +1,4 @@
-## Hi Im George !
+## Hi Nerd
 * I like programming 🖥️
 * i speak spanish and english
 * Developing Tatakai v2 Script
