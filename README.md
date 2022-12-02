@@ -1,9 +1,6 @@
 ## Hi Nerd
 * I like programming 🖥️
-* i speak spanish and english
-* Developed Tatakai V2 Script 🥊 
-* Developing Mighty Omega Script 🥋
-* Waiting Fighting Games to script
+* Learning how to skid
 
 ##
 ## Skills:
